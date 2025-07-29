@@ -6,7 +6,7 @@ Creating An Ultimate Portfolio Site From Scratch And Only Using Pure HTML & CSS.
 ## Acknowledgements
 
  - [Subscribe Me on Youtube❤️](https://www.youtube.com/@mehtabcodes)
- - [Follow Me On Instagram😉](https://www.instagram.com/mehtabcodesofficial/)
+ - [Follow Me On Instagram😉](https://www.instagram.com/mehtabcodes)
  - [More Amazing Repositories](https://github.com/mehtabcodes7)
 
 
